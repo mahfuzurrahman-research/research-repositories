@@ -58,4 +58,16 @@ Detailed code, data, model specifications, computational workflows, provenance m
 
 ## Research Themes
 
-Administrative measurement · Public administration · Computational governance · Administrative burden · State capacity · Citizen evidence · Institutional design · Reproducibility · Research engineering
+**Data Science**  
+**Policy Engineering**  
+**Sustainable Clean-System Architecture for the Government–Citizen Handshake**  
+**SCI–REGG Equation**  
+**Data Governance and Administrative Data Architecture**  
+**Algorithmic State Policy**  
+**Democratic Datacracy**  
+**Institutional Architecture and State Systems Design**  
+**Metadata Integrity and Evidentiary Provenance**  
+**Circular-Hierarchy Packet Architecture for Vibrant and Agile AI Token Administration**  
+**Machine-Readable Prediction of Fundamental and Human Rights**  
+**Circular Solar Metadata Segregation for Sustainable Data Infrastructure**
+
