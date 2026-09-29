@@ -2,7 +2,7 @@
 
 **Data Engineer | Algorithmic Democracy, Vibrant Bureaucracy, Social Constitution Index, AI Token Administration, Sustainable Data for Human Rights**
 
-A curated index of private research repositories in public administration, administrative systems, measurement, state capacity, and computational governance.
+A curated index of five private research repositories in public administration, administrative systems, measurement, state capacity, and computational governance.
 
 ---
 
@@ -45,6 +45,16 @@ An empirical study of administrative timeliness that examines how the definition
 A computational and empirical study of the conditions under which citizen complaint volumes may diverge from the underlying state of public-service performance.
 
 **Repository status:** Private — source code, analytical materials, provenance records, and research files are not publicly accessible.
+
+---
+
+### 🔒 risk-is-not-guilt
+
+**Risk Is Not Guilt: Predictive Anti-Corruption and the Constitutional Governance of Algorithmic Risk**
+
+A computational governance and measurement study of how procurement sanction records can be represented, linked, and audited while preserving workflow state, evidentiary provenance, and the distinction between administrative risk signals and claims of corruption or guilt.
+
+**Repository status:** Private — source code, SQL and data-engineering materials, analytical workflows, provenance records, and research files are not publicly accessible.
 
 ---
 
