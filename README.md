@@ -2,8 +2,6 @@
 
 **Data Engineer | Algorithmic Democracy, Vibrant Bureaucracy, Social Constitution Index, AI Token Administration, Sustainable Data for Human Rights**
 
-A curated index of five private research repositories in public administration, administrative systems, measurement, state capacity, and computational governance.
-
 ---
 
 ## Research Repositories
