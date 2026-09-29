@@ -50,7 +50,7 @@ A computational and empirical study of the conditions under which citizen compla
 
 ## Access
 
-**Empirical research repositories are intentionally private.** This public index provides only project titles and high-level research descriptions.
+**Empirical research repositories are intentionally private.** This public index provides only project titles and research descriptions.
 
 Detailed code, data, model specifications, computational workflows, provenance materials, and manuscript-linked outputs remain access-controlled.
 
