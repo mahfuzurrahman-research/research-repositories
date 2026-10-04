@@ -65,7 +65,6 @@ A computational public-administration and forecasting study examining how time-v
 
 The protected empirical target is a **future archived USDA WASDE Production estimate** at **h=6 observed release steps**. The repository does not relabel this target as realized physical harvest, government action, causal policy impact, or welfare evidence.
 
-**Repository status:** Private · Engineering-complete · Public portfolio summary only
 
 ## 🔒 risk-is-not-guilt
 
