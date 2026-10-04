@@ -1,4 +1,4 @@
-# Research Repositories
+# Mahfuzur Rahman — Research Repository Index
 
 ## 🔒 who-should-navigate-the-state
 
@@ -241,3 +241,73 @@ A formal and computational study examining how citizen-generated evidence enters
 - Clean-room reproduction
 - Static dashboard reporting
 - Docker and CI verification
+
+---
+
+## 🔒 predictive-production-state
+
+### The Predictive Production State
+**Total Production Intelligence, Fiscal Anticipation, and Adaptive Public Resource Allocation**
+
+A computational public-administration and forecasting study examining how time-valid production intelligence, predictive uncertainty, and reproducible analytical infrastructure can be organized within a broader predictive-state architecture.
+
+### Empirical / Computational Scale
+
+- **840 protected h=6 forecast pairs**
+- **28 country × commodity groups**
+- **12 protected origin events**
+- Multi-country, multi-commodity forecasting structure
+- Multi-horizon historical forecasting architecture
+- Time-valid release-vintage information controls
+- Protected holdout and reserve-data boundaries
+
+### Technical Work
+
+- Python
+- SQL / DuckDB
+- Multi-horizon forecasting infrastructure
+- Temporal-information and as-of-data guards
+- Point and probabilistic forecast evaluation
+- Relational analytical warehouse
+- Scientific-lineage and provenance controls
+- Structured experiment and evidence contracts
+- Failure / fallback accounting
+- Synthetic interruption and resume verification
+- Deterministic reporting
+- Static analytical dashboard
+- Bounded Docker execution
+- Exact-head GitHub Actions CI
+- Clean-room repository recovery
+
+### Analytical Methods
+
+- Persistence and time-series forecasting benchmarks
+- State-aware forecasting architecture
+- Protected holdout evaluation
+- Macro-weighted forecast scoring
+- MAE and RMSE diagnostics
+- CRPS and probabilistic scoring
+- Quantile calibration
+- Prediction-interval coverage diagnostics
+- Revision-direction accuracy
+- Temporal-support and bootstrap diagnostics
+
+### Selected Technical Evidence
+
+- **840** protected h=6 forecast pairs
+- **28** country × commodity groups
+- **12** protected origin events
+- **91/91 hosted CI tests passed**
+- **91/91 clean-room recovery tests passed**
+- Fresh DuckDB analytical warehouse reconstruction
+- Exact local / remote / hosted-CI / restored-subject reconciliation
+- Deterministic, byte-identical static dashboard
+- Versioned Git recovery bundle and tracked archive
+- Explicit scientific-claim and reproduction-mode boundaries
+- Private repository with bounded **M0/M1 engineering scope complete**
+
+### Scientific Boundary
+
+The protected empirical target is a **future archived USDA WASDE Production estimate** at **h=6 observed release steps**. The repository does not relabel this target as realized physical harvest, government action, causal policy impact, or welfare evidence.
+
+**Repository status:** Private · Engineering-complete · Public portfolio summary only
