@@ -62,7 +62,6 @@ A computational public-administration and forecasting study examining how time-v
 - Explicit scientific-claim and reproduction-mode boundaries
 - Private repository with bounded **M0/M1 engineering scope complete**
 
-### Scientific Boundary
 
 The protected empirical target is a **future archived USDA WASDE Production estimate** at **h=6 observed release steps**. The repository does not relabel this target as realized physical harvest, government action, causal policy impact, or welfare evidence.
 
